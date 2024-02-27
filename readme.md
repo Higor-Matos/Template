@@ -48,7 +48,3 @@ Organização e separação de responsabilidades ilustradas abaixo:
 ## Contribuidores
 
 Contribuições são bem-vindas seguindo as práticas de fork e pull request no GitHub.
-
-## Licença
-
-Defina a licença sob a qual o script é disponibilizado, conforme preferências ou políticas aplicáveis.
