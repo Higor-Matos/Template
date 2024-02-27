@@ -10,12 +10,13 @@ Para usar o script, clone o repositório Git e dê permissão de execução ao a
 
 ```bash
 chmod +x nome_do_script.sh
+```
 
 Execute o script com o nome do projeto como argumento:
 
 ```bash
 ./python_flask.sh nome_do_projeto
-
+```
 
 ## Características
 
