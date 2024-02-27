@@ -37,11 +37,11 @@ O script configura automaticamente arquivos `.env` e `requirements.txt`. Edite c
 
 ## Documentação
 
-### Arquitetura do Projeto
-
-Organização e separação de responsabilidades ilustradas abaixo:
+### Arquitetura do Projeto Python
 
 ![Arquitetura do Projeto](ArquiteturaProjeto.png)
+
+### Arquitetura do Script
 
 ![Arquitetura do Script](ArquiteturaScript.png)
 
